@@ -1,6 +1,10 @@
 # Moving Picture Potions
 Moving Picture Potions allows the user to view random movie selections and adult beverages based on their choice of a movie genre. The user's last genre choice is presented to the user for easy retrieval.
 
+I made a copy of the submitted project (downloaded the zip, not forked). If you'd like to see the commit history of the original submitted project, you can look [here](https://github.com/micahlanham/Moving-picture-potions/commits/main).
+
+---
+
 [Contributors](#contributors)
 
 [Requirements](#requirements)
@@ -21,11 +25,11 @@ Moving Picture Potions allows the user to view random movie selections and adult
 
 <a id="Contributors"></a>
 ## Contributors
-* Ven Kim
-* Anna Navales
-* Julius Tovar
-* Micah Lanham
-* Brenda Jackels
+* Brenda Jackels: https://github.com/bjackels5
+* Ven Kim: https://github.com/ven-kim
+* Anna Navales: https://github.com/AnnaNavales
+* Julius Tovar: https://github.com/Javamang21
+* Micah Lanham: https://github.com/micahlanham
 
 ---
 
