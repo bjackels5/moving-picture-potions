@@ -95,6 +95,6 @@ As an indecisive movie watcher I want to choose a movie genre me and be shown 5 
 
 <a id="projectURL"></a>
 ## Moving Picture Potions URL
-[Moving Picture Potions URL](https://micahlanham.github.io/Moving-picture-potions/)
+[Moving Picture Potions URL](https://bjackels5.github.io/Moving-picture-potions/)
 
 
